@@ -38,6 +38,9 @@
     blueView.layer.borderWidth = 2;
     [self.view addSubview:blueView];
     
+    /**
+     *  desdfs
+     */
     // 使这三个控件等高
     CGFloat padding = 10;
     [greenView mas_makeConstraints:^(MASConstraintMaker *make) {
