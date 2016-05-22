@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2C8A7E6A1CF1A61800F38035 /* View2Controller.m in Sources */ = {isa = PBXBuildFile; fileRef = 2C8A7E691CF1A61800F38035 /* View2Controller.m */; };
 		B6BA4EFC1C86E10E006DE13C /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = B6BA4EFB1C86E10E006DE13C /* main.m */; };
 		B6BA4EFF1C86E10E006DE13C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = B6BA4EFE1C86E10E006DE13C /* AppDelegate.m */; };
 		B6BA4F021C86E10E006DE13C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B6BA4F011C86E10E006DE13C /* ViewController.m */; };
@@ -46,6 +47,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2C8A7E681CF1A61800F38035 /* View2Controller.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = View2Controller.h; sourceTree = "<group>"; };
+		2C8A7E691CF1A61800F38035 /* View2Controller.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = View2Controller.m; sourceTree = "<group>"; };
 		B6BA4EF71C86E10E006DE13C /* masnory.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = masnory.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B6BA4EFB1C86E10E006DE13C /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		B6BA4EFD1C86E10E006DE13C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -143,6 +146,8 @@
 				B6BA4EFE1C86E10E006DE13C /* AppDelegate.m */,
 				B6BA4F001C86E10E006DE13C /* ViewController.h */,
 				B6BA4F011C86E10E006DE13C /* ViewController.m */,
+				2C8A7E681CF1A61800F38035 /* View2Controller.h */,
+				2C8A7E691CF1A61800F38035 /* View2Controller.m */,
 				B6BA4F031C86E10E006DE13C /* Main.storyboard */,
 				B6BA4F061C86E10E006DE13C /* Assets.xcassets */,
 				B6BA4F081C86E10E006DE13C /* LaunchScreen.storyboard */,
@@ -338,6 +343,7 @@
 				B6BA4F771C86E365006DE13C /* NSLayoutConstraint+MASDebugAdditions.m in Sources */,
 				B6BA4F751C86E365006DE13C /* MASViewConstraint.m in Sources */,
 				B6BA4F701C86E365006DE13C /* MASCompositeConstraint.m in Sources */,
+				2C8A7E6A1CF1A61800F38035 /* View2Controller.m in Sources */,
 				B6BA4F761C86E365006DE13C /* NSArray+MASAdditions.m in Sources */,
 				B6BA4F7A1C86E365006DE13C /* ViewController+MASAdditions.m in Sources */,
 				B6BA4F021C86E10E006DE13C /* ViewController.m in Sources */,
